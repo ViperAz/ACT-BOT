@@ -1,2 +1,2 @@
 <?php
-    echo "FUCK THIS SHIT"
+    echo "FUCK THIS SHIT";
